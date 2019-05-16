@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToolsSupport</string>
+    <string name="ten_thousand">万</string>
+    <string name="copy_success">复制成功</string>
+    <string name="no_app_can_use">打开失败了，没有可打开的应用</string>
+    <string name="no_emoji">不支持特殊符号</string>
+</resources>
